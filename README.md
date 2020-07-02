@@ -1,5 +1,5 @@
 # Application of Machine Learning to Life Science(Biology)
-This repository contains code for blog post [here]().
+This repository contains code for blog post [here](https://medium.com/@se.mitiku.yohannes/application-of-machine-learning-to-life-science-biology-part-1-76924b6c3fa3#03b2-b881970a4ea).
 ## Part 1 Measuring similarity of Animal Genomes
 In this tutorial we have seen that how to use kmer features to compute similarity between two genome sequences. Here I will provide how to use the scripts to generate embedding that could be visualized using tensorboard. Beside the generation of embedding we can also use the script to find the most similar animal to the given animal
 
